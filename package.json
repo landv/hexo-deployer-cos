@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdlzhd/hexo-deployer-cos.git"
+    "url": "git+https://github.com/landv/hexo-deployer-cos.git"
   },
   "keywords": [
     "hexo",
@@ -17,12 +17,12 @@
     "deployer",
     "cos"
   ],
-  "author": "dongdong",
+  "author": "landv",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sdlzhd/hexo-deployer-cos/issues"
+    "url": "https://github.com/landv/hexo-deployer-cos/issues"
   },
-  "homepage": "https://github.com/sdlzhd/hexo-deployer-cos#readme",
+  "homepage": "https://github.com/landv/hexo-deployer-cos#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "cos-nodejs-sdk-v5": "^2.5.20",
