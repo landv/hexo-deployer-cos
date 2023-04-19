@@ -12,6 +12,8 @@ COS is one of the best static blog hosting platforms, you can enable CDN and con
 
 > $ npm install hexo-deployer-cos --save
 
+> npm install https://github.com/landv/hexo-deployer-cos --save
+
 ## Options
 
 You can configure in _config.yml as follows:
